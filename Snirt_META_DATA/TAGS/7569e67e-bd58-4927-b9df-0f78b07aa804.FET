@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>7569e67e-bd58-4927-b9df-0f78b07aa804</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>Test2.docx</DisplayName>
+    <PathInsideRepo />
+    <RepoRootFolder>C:\Users\Admin\Documents\Snirt\Training2Demo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>17180056-2438-4031-bec9-209d1342a14b</guid>
+    <guid>bd6ddde1-4c30-4762-baca-7aba37a76150</guid>
+  </Tags>
+</FolderEntryTags>
